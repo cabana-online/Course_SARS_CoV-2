@@ -35,7 +35,7 @@ On the Colab home page, select "File" and then "Open notebook".
 
 There's a tab for "GitHub"; select that tab and paste the following URL into the search bar under "Enter a GitHub URL or search by organization or user":
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
@@ -53,7 +53,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
@@ -67,7 +67,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
@@ -81,7 +81,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
@@ -101,7 +101,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 
 After a brief search, you'll see the notebooks:
@@ -118,7 +118,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
@@ -132,7 +132,7 @@ Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Course_SARS_CoV-2`
 
 After a brief search, you'll see the notebook:
 
