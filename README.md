@@ -11,8 +11,6 @@ Continuous analysis of SARS-CoV-2 allows monitoring the virus spread, understand
 - Apply command-line tools for quality control of sequence data.
 - Identify the formats of files commonly used in SARS-CoV-2 sequencing.
 - Use Pangolin for viral lineage identification from existing datasets.
-- Identify key metadata that should be included when uploading sequences to online repositories.
-- Describe the general principles of applying analysis results in outbreak, epizootic, and pandemic responses.
 
 
 ## Target Audience
@@ -27,7 +25,9 @@ The course will use Google Colaboratory, which is free but requires a Google acc
 ## Program
 
  
-### Module 1: [Introduction to Google Colaboratory](01.Intro_a_colab.ipynb)
+### Module 1: [Introduction to Google Colaboratory](01.Intro_a_colab.ipynb).
+
+Modules 1, 2, and 3 are located in the repository  [Introduction](https://github.com/cabana-online/Introduction_tutorial)
 
 To get started, go to https://colab.research.google.com/.
 
