@@ -2,6 +2,9 @@
 
 Repository of the course "Bioinformatics for SARS-CoV-2 analysis for beginners."
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13650233.svg)](https://doi.org/10.5281/zenodo.13650233)
+
+
 ## Summary
 
 Continuous analysis of SARS-CoV-2 allows monitoring the virus spread, understanding how it is evolving over time, and facilitating the implementation of effective public health measures. This course aims to provide an introduction to bioinformatics through the analysis of genomic data of the SARS-CoV-2 virus. In this course, viral genomes obtained through different types of sequencing will be analyzed, the different lineages of virus variants will be determined, and you will learn how to share this data with the rest of the world.
