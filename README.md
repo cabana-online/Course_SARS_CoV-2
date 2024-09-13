@@ -28,7 +28,7 @@ The course will use Google Colaboratory, which is free but requires a Google acc
 ## Program
 
  
-### Module 1: [Introduction to Google Colaboratory](01.Intro_a_colab.ipynb).
+### Module 1: [Introduction to Google Colaboratory](https://github.com/cabana-online/Introduction_tutorial).
 
 Modules 1, 2, and 3 are located in the repository  [Introduction](https://github.com/cabana-online/Introduction_tutorial)
 
@@ -38,7 +38,7 @@ On the Colab home page, select "File" and then "Open notebook".
 
 There's a tab for "GitHub"; select that tab and paste the following URL into the search bar under "Enter a GitHub URL or search by organization or user":
 
-`https://github.com/cabana-online/Course_SARS_CoV-2`
+`https://github.com/cabana-online/Introduction_tutorial`
 
 After a brief search, you'll see the notebook:
 
@@ -50,13 +50,13 @@ To run the cells, you'll need to sign in with your Google account (feel free to 
 
 **Note:** There are limitations in the free version, but they won't be reached in this course.
 
-### Module 2: [Introduction to Notebooks and Unix/Linux.](02.Module_2_linux.ipynb)
+### Module 2: [Introduction to Notebooks and Unix/Linux.](https://github.com/cabana-online/Introduction_tutorial)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/cabana-online/Course_SARS_CoV-2`
+`https://github.com/cabana-online/Introduction_tutorial`
 
 After a brief search, you'll see the notebook:
 
@@ -64,13 +64,13 @@ After a brief search, you'll see the notebook:
 
 Select it, and you'll see the notebook open.
 
-### Module 3: [Introduction to NGS technologies used in SARS-CoV-2 sequencing.](03.Module_3_NGS.ipynb)
+### Module 3: [Introduction to NGS technologies used in SARS-CoV-2 sequencing.](https://github.com/cabana-online/Introduction_tutorial)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/cabana-online/Course_SARS_CoV-2`
+`https://github.com/cabana-online/Introduction_tutorial`
 
 After a brief search, you'll see the notebook:
 
