@@ -7,12 +7,14 @@ Repository of the course "Bioinformatics for SARS-CoV-2 analysis for beginners."
 
 ## Summary
 
-Continuous analysis of SARS-CoV-2 allows monitoring the virus spread, understanding how it is evolving over time, and facilitating the implementation of effective public health measures. This course aims to provide an introduction to bioinformatics through the analysis of genomic data of the SARS-CoV-2 virus. In this course, viral genomes obtained through different types of sequencing will be analyzed, the different lineages of virus variants will be determined, and you will learn how to share this data with the rest of the world.
+Continuous analysis of SARS-CoV-2 allows monitoring the virus spread, understanding how it is evolving over time, and facilitating the implementation of effective public health measures. This course aims to provide an introduction to bioinformatics through the analysis of genomic data of the SARS-CoV-2 virus. In this course, viral genomes obtained through different types of sequencing will be analyze and the different lineages of virus variants will be determined. 
 
 ## Learning Objectives
 
+- Learn to use the command line and BASH scripting language, developing essential skills for file management and running bioinformatics tools in Linux environments.
 - Apply command-line tools for quality control of sequence data.
 - Identify the formats of files commonly used in SARS-CoV-2 sequencing.
+- Use bioinformatics tools in SARS-CoV-2 analysis pipelines, applying Illumina and Nanopore sequencing techniques for the processing, analysis, and visualization of genomic data.
 - Use Pangolin for viral lineage identification from existing datasets.
 
 
@@ -23,6 +25,11 @@ The course is aimed at students, researchers, or clinical/healthcare professiona
 ## General Requirements
 
 The course will use Google Colaboratory, which is free but requires a Google account for use. Google accounts are free.
+
+## Acknowledgments
+
+We thank the team responsible for developing the **SARS-CoV-2 Bioinformatics for Beginners** course, available at the repository https://github.com/WCSCourses/SARS-COV-2_B4B, whose content and resources have been essential for the creation of this tutorial. We also acknowledge the support of [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/) and [COG-Train](https://coursesandconferences.wellcomeconnectingscience.org/news_item/a-transformative-journey-in-global-training-online-in-a-post-pandemic-world/) in the development of the original course.
+
 
 
 ## Program
