@@ -1,6 +1,4 @@
-# SARS-CoV-2-Course
-
-Repository of the course "Bioinformatics for SARS-CoV-2 analysis for beginners."
+# Bioinformatics for SARS-CoV-2 analysis for beginners
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13650233.svg)](https://doi.org/10.5281/zenodo.13650233)
 
